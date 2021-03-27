@@ -1,2 +1,3 @@
 chinese
+english
 66
