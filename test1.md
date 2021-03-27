@@ -1,3 +1,3 @@
 chinese
 english
-66
+77
