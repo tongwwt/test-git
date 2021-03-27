@@ -1,3 +1,3 @@
-my name
-2
-8
+chinese
+math
+english
