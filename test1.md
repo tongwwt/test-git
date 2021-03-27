@@ -1,3 +1,2 @@
-my name
-2
-8
+chinese
+66
